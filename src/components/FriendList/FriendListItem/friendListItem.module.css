@@ -17,13 +17,12 @@
 }
 
 .online {
-  display: block;
-  width: 20px;
-  height: 20px;
+  composes: status;
   background-color: rgb(4, 153, 4);
-  margin-right: 50px;
 }
+
 .offline {
+  composes: status;
   background-color: rgb(246, 25, 25);
 }
 
