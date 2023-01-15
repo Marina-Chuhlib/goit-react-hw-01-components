@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Marina-Chuhlib/goit-react-hw-01-components/static/css/main.b0f7afc1.css",
-    "main.js": "/Marina-Chuhlib/goit-react-hw-01-components/static/js/main.9807e98a.js",
-    "index.html": "/Marina-Chuhlib/goit-react-hw-01-components/index.html",
-    "main.b0f7afc1.css.map": "/Marina-Chuhlib/goit-react-hw-01-components/static/css/main.b0f7afc1.css.map",
-    "main.9807e98a.js.map": "/Marina-Chuhlib/goit-react-hw-01-components/static/js/main.9807e98a.js.map"
+    "main.css": "/goit-react-hw-01-components/static/css/main.b0f7afc1.css",
+    "main.js": "/goit-react-hw-01-components/static/js/main.9807e98a.js",
+    "index.html": "/goit-react-hw-01-components/index.html",
+    "main.b0f7afc1.css.map": "/goit-react-hw-01-components/static/css/main.b0f7afc1.css.map",
+    "main.9807e98a.js.map": "/goit-react-hw-01-components/static/js/main.9807e98a.js.map"
   },
   "entrypoints": [
     "static/css/main.b0f7afc1.css",
