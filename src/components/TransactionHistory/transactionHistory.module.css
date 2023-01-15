@@ -1,0 +1,31 @@
+.history {
+  padding: 30px;
+  margin-left: 20px;
+  width: 70%;
+  table-layout: fixed;
+  border-collapse: collapse;
+  border: 3px solid rgb(172, 160, 164);
+  background-color: rgb(199, 186, 192);
+}
+
+th,
+td {
+  padding: 8px;
+  text-align: center;
+  border: 1px solid rgb(169, 169, 169);
+}
+
+td {
+  text-transform: capitalize;
+}
+
+th {
+  text-transform: uppercase;
+  background-color: rgb(131, 222, 236);
+  padding: 15px;
+  color: rgb(104, 103, 103);
+}
+
+tr:nth-child(even) {
+  background-color: rgb(217, 214, 219);
+}

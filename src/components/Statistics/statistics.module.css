@@ -1,3 +1,38 @@
 .statistics {
-  background-color: aquamarine;
+  margin-left: 20px;
+  margin-bottom: 20px;
+  background-color: rgb(198, 198, 198);
+  width: fit-content;
+  height: 200px;
+  text-align: center;
+  padding: 70px;
+}
+
+.title {
+  margin: 0;
+  color: rgb(155, 155, 155);
+  padding: 25px 30px;
+  background-color: aliceblue;
+  text-transform: uppercase;
+}
+
+.list {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+.item {
+  border: 1px solid rgb(36, 101, 91);
+  padding: 20px;
+  background-color: rgb(199, 234, 222);
+  color: rgb(146, 146, 152);
+  font-size: 20px;
+}
+
+.label,
+.percentage {
+  display: block;
+  text-transform: uppercase;
 }
